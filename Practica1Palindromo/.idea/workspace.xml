@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9dad9e-3589-43ee-9561-0a66351f14ea" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Comprobador1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="method#Comprobador1#1;class#Comprobador1#0" />
+                <element signature="method#esPalindromo#0;class#Comprobador1#0" />
+                <element signature="e#545#639#1" />
+                <element signature="e#677#844#1" />
+                <element signature="e#776#834#1" />
+                <element signature="e#850#1049#1" />
+                <element signature="e#953#1011#1" />
+                <element signature="e#1136#1265#1" />
+                <element signature="e#1188#1234#1" />
+                <element signature="method#leerFrase#0;class#Comprobador1#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Comprobador3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="40" column="73" lean-forward="true" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Comprobador2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="method#Comprobador2#0;class#Comprobador2#0" />
+                <element signature="method#Comprobador2#1;class#Comprobador2#0" />
+                <element signature="method#esPalindromo#0;class#Comprobador2#0" />
+                <element signature="e#554#709#1" />
+                <element signature="e#595#699#1" />
+                <element signature="e#794#924#1" />
+                <element signature="e#847#893#1" />
+                <element signature="method#leerFrase#0;class#Comprobador2#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>char</find>
+      <find>int</find>
+      <find>cimapila</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Nodo.java" />
+        <option value="$PROJECT_DIR$/src/Pila.java" />
+        <option value="$PROJECT_DIR$/src/Cola.java" />
+        <option value="$PROJECT_DIR$/src/PilaCaracteres.java" />
+        <option value="$PROJECT_DIR$/src/NodoCaracteres.java" />
+        <option value="$PROJECT_DIR$/src/Comprobador1.java" />
+        <option value="$PROJECT_DIR$/src/ColaCaracteres.java" />
+        <option value="$PROJECT_DIR$/src/Comprobador2.java" />
+        <option value="$PROJECT_DIR$/src/Comprobador3.java" />
+        <option value="$PROJECT_DIR$/src/Principal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="209" />
+    <option name="y" value="22" />
+    <option name="width" value="1180" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practica1Palindromo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practica1Palindromo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practica1Palindromo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practica1Palindromo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551925568249" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practica2ListaPacientes" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Practica1Palindromo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Estudios\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9dad9e-3589-43ee-9561-0a66351f14ea" name="Default Changelist" comment="" />
+      <created>1550782462144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550782462144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="209" y="22" width="1180" height="847" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17321429" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23883697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822478" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PilaCaracteres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="method#PilaCaracteres#0;class#PilaCaracteres#0" />
+            <element signature="method#pilaVacia#0;class#PilaCaracteres#0" />
+            <element signature="method#apilar#0;class#PilaCaracteres#0" />
+            <element signature="method#desapilar#0;class#PilaCaracteres#0" />
+            <element signature="method#cima#0;class#PilaCaracteres#0" />
+            <element signature="method#escribirPila#0;class#PilaCaracteres#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NodoCaracteres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="method#NodoCaracteres#0;class#NodoCaracteres#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ColaCaracteres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="method#ColaCaracteres#0;class#ColaCaracteres#0" />
+            <element signature="method#encolar#0;class#ColaCaracteres#0" />
+            <element signature="method#desencolar#0;class#ColaCaracteres#0" />
+            <element signature="method#colaVacia#0;class#ColaCaracteres#0" />
+            <element signature="method#primero#0;class#ColaCaracteres#0" />
+            <element signature="method#escribirCola#0;class#ColaCaracteres#0" />
+            <element signature="method#numElemCola#0;class#ColaCaracteres#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Comprobador1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="method#Comprobador1#1;class#Comprobador1#0" />
+            <element signature="method#esPalindromo#0;class#Comprobador1#0" />
+            <element signature="e#545#639#1" />
+            <element signature="e#677#844#1" />
+            <element signature="e#776#834#1" />
+            <element signature="e#850#1049#1" />
+            <element signature="e#953#1011#1" />
+            <element signature="e#1136#1265#1" />
+            <element signature="e#1188#1234#1" />
+            <element signature="method#leerFrase#0;class#Comprobador1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Comprobador2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="method#Comprobador2#0;class#Comprobador2#0" />
+            <element signature="method#Comprobador2#1;class#Comprobador2#0" />
+            <element signature="method#esPalindromo#0;class#Comprobador2#0" />
+            <element signature="e#554#709#1" />
+            <element signature="e#595#699#1" />
+            <element signature="e#794#924#1" />
+            <element signature="e#847#893#1" />
+            <element signature="method#leerFrase#0;class#Comprobador2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Comprobador3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="40" column="73" lean-forward="true" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
